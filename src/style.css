@@ -135,8 +135,8 @@ button:hover{
     z-index: 10;
     border: none;
     outline: #E0F465;
-    background-color: #000000B8;
-    color: #E0F465;
+    background-color: #000000;
+    color: #000;
     cursor: pointer;
     border-radius: 10px;
     font-size: 45px;
