@@ -149,4 +149,21 @@
     .portfolio-filter .project{
         border-radius: 0px 25px 25px 0;
     }
+
+    .expertises .expertises-box img{
+        width: 90px;
+        margin-left: 35%;
+    }
+}
+
+@media screen and (max-width: 375px){
+    .expertises .expertises-box img{
+        margin-left: 30%;
+    }
+}
+
+@media screen and (max-width: 320px){
+    .expertises .expertises-box img{
+        margin-left: 27%;
+    }
 }

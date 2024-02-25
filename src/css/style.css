@@ -65,6 +65,18 @@ img.logo:hover{
     transition: .2s;
 }
 
+.btn-know-more button{
+    padding: 10px 40px;
+    font-size: 18px;
+    font-weight: 600;
+    color: #FFF;
+    background-color: #000;
+    border: 0;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: .2s;
+}
+
 .btn-social button{
     width: 60px;
     height: 60px;
@@ -436,12 +448,20 @@ section.expertises{
 }
 
 .expertises-box .expertises-box-text{
-    text-align: center;
+    text-align: justify;
     padding-bottom: 25px;
 }
 
+.expertises-box-text i{
+    font-size: 8px;
+    vertical-align: middle;
+    padding-right: 2%;
+}
+
 .hl{
-    color: #87ff00;
+    font-size: 20px;
+    font-weight: 700;
+    color: #000;
 }
 
 .expertises-box{
